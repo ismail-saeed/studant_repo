@@ -12,7 +12,7 @@ public class StudantDemoApplication {
 	@GetMapping("/hello")
 	public String hello() {
 		
-		return " Hello from azure with bona";
+		return " Hello from azure with bona ";
 	}
 
 	public static void main(String[] args) {
